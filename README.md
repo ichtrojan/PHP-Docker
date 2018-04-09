@@ -6,6 +6,7 @@ This Package is to help set up PHP Stack on docker
 * PHP 7
 * phpmyadmin
 * MySQL
+* Nginx
 
 This package supports Laravel and Lumen
 
